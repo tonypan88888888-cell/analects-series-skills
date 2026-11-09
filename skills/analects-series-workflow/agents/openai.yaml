@@ -1,0 +1,4 @@
+interface:
+  display_name: "陪仲仲读论语·制作协作"
+  short_description: "沿用已确认的逐章策划、原声钩子、中英校订、双语封面及横竖交付流程"
+  default_prompt: "请用 $analects-series-workflow 按系列标准处理这份录音，先提交每章标题、原声钩子和剪辑方案审核。"
