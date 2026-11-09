@@ -1,0 +1,58 @@
+{
+  "series": "陪仲仲读《论语》",
+  "names": {
+    "child_zh": "仲仲",
+    "child_en": "Zhongzhong",
+    "father_zh": "爸爸",
+    "father_en": "Dad"
+  },
+  "video_sizes": {
+    "landscape": [
+      1920,
+      1080
+    ],
+    "portrait": [
+      1080,
+      1920
+    ]
+  },
+  "cover_sizes": {
+    "landscape": [
+      1920,
+      1080
+    ],
+    "portrait": [
+      1080,
+      1920
+    ],
+    "four_three": [
+      1600,
+      1200
+    ],
+    "three_four": [
+      1200,
+      1600
+    ]
+  },
+  "browser_preference": "ego lite，使用前确认安装及可用性",
+  "tools": {
+    "prefer_free_open_source_local": true,
+    "built_in_cover_image_editing_allowed": false
+  },
+  "assets": {
+    "cover_reference": "series-assets/封面版式参考.png",
+    "portrait_circle": "series-assets/圆形蒙版.png",
+    "outro_portrait": "series-assets/固定双语片尾_竖版.mp4",
+    "outro_landscape": "series-assets/固定双语片尾_横版.mp4"
+  },
+  "multichapter_workflow": {
+    "farewell_fallback_source": null,
+    "farewell_fallback_range_seconds": null
+  },
+  "publishing": {
+    "authorized_platforms": [],
+    "disabled_platforms": [],
+    "publish_without_episode_instruction": false
+  },
+  "note": "示例配置，路径相对于用户项目。请提供自有/已授权素材，按当前用户偏好修改姓名、工具授权、片尾、模板及平台。示例不是上传发布授权。"
+}
