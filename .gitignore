@@ -1,0 +1,17 @@
+# Personal assets and runtime state never belong in this skills repository.
+series-assets/
+outputs/
+*.mp4
+*.mov
+*.m4a
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+.env
+.env.*
+!.env.example
+*cookies*
+*storage-state*
+__pycache__/
